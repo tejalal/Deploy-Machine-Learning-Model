@@ -1,7 +1,7 @@
 # Deploy Machine Learning Model
 Contains the details of creating, training and deployment of SVC (Support Vector Classifier) for the classification of IRIS Flower dataset.
 
-Repository contains diffeent files
+Repository contains different files
 
 - IRIS.csv: IRIS flower dataset
 - trainsave.py: Create, train and save the model
