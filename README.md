@@ -10,4 +10,4 @@ Repository contains different files
 - pythonClient.py: To test the API using python code
 - IRIS.java: To test the API using JAVA code
 
-Please follow [this link](https://tejalal.wordpress.com/2019/01/09/deploy-ml-model/) for the detailed instructions
+Please follow [this link](https://draculla12.wordpress.com/2019/01/09/deploy-ml-model/) for the detailed instructions
